@@ -9,13 +9,13 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #f5f5f5;
+  background-color: #66f891;
 }
 
 .header .logo {
   font-size: 25px;
   font-family: 'Sriracha', cursive;
-  color: #000;
+  color: #21b;
   text-decoration: blink;
   margin-left: 30px;
 }
@@ -24,13 +24,13 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #f5f5f5;
+  background-color: #66f891;
   margin-right: 20px;
 }
 
 .nav-items a {
   text-decoration: none;
-  color: #000;
+  color: #21b;
   padding: 35px 20px;
 }
 /* CSS for main section */
@@ -144,8 +144,8 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #302f49;
-  padding: 40px 80px;
+  background-color: #ff2f49;
+  padding: 0px 80px;
 }
 
 .footer .copy {
